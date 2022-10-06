@@ -32,7 +32,7 @@ print(suma_tupla)
 
 # Ahora vamos a eliminar tuplas
 del tupla3
-# print(tupla3) # No la va a mostrar, porque la borro por completo
+# print(tupla3) # No la va a mostrar, porque la lista se borra por completo
 
 # Comprobacion de elementos dentro de la tupla
 
